@@ -1,0 +1,124 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@800&display=swap');
+  *{
+    font-family: 'Mulish', sans-serif;
+  }
+  .header-section{
+    max-width: 1250px;
+    margin: 0 auto;
+    /* border: 2px solid blue; */
+    display: flex;
+  }
+
+  .nav-container{
+    /* border: 2px solid red; */
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    width: 50%;
+  }
+  .nav-container img{
+    width: 48px;
+    height: 56px;
+  }
+  .nav-container p{
+    color: #131318;
+font-family: Mulish;
+font-size: 36px;
+font-weight: 800;
+  }
+  .Travel{
+    color: #FF5400;
+font-family: Mulish;
+font-size: 36px;
+font-weight: 800;
+  }
+  .nav-items{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+padding: 10px 0px;
+gap: 44px;
+
+  }
+  .nav-items a{
+    text-decoration: none;
+    color: #424247;
+    font-size: 1rem;
+    font-weight: 400;
+    font-family: Mulish;
+  }
+  .home{
+    color: #FF5400;
+  }
+
+  /* banner section start here */
+  .banner{
+    max-width: 1250px;
+    height: 500px;
+    margin: 0 auto;
+  }
+  .banner-img{
+    background-image: linear-gradient(#131318, #13131800) , url(../Images/group1.png);
+    background-repeat: no-repeat;
+    border-radius: 8px;
+    height: 100%;
+    background-size: cover;
+  }
+  .explore{
+    color: #FFF;
+font-family: Mulish;
+font-size: 3.5rem;
+font-weight: 800;
+text-align: center;
+padding-top: 50px;
+  }
+  .banner-description{
+    width: 676px;
+    color: #FFF;
+text-align: center;
+font-family: Mulish;
+font-size: 0.8rem;
+font-weight: 400;
+line-height: 26px;
+margin-left: 230px;
+  }
+
+  .button{
+    width: 868px;
+    height:50px;
+    margin-left: 200px;
+    gap: 24px;
+    display: flex;
+    margin-top: 50px;
+  }
+   
+  .banner-btn {
+    /* display: flex; */
+    width: 174px;
+    height: 52px;
+    background-color: #FFF;
+    text-align: center;
+    border: 2px solid;
+    border-radius: 8px;
+    color: #13131880;
+    gap: 24px;
+  }
+ 
+   #find-now{
+    width: 174px;
+    height: 52px;
+    background-color: #FF5400;
+    color: #FFF;
+    border: none;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 16px;
+    gap: 10px;
+  }
+  #find-now img{
+    margin-top: 10px;
+    
+    
+  }

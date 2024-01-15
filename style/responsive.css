@@ -1,0 +1,47 @@
+@media screen and (max-width: 600px) {
+    .nav-items {
+        flex-direction: column;
+
+    }
+
+    .nav-container img {
+        width: 28.724px;
+        height: 33.516px;
+
+    }
+
+    .nav-container p {
+        font-size: 20px;
+        font-weight: 800;
+    }
+
+    .Travel {
+        font-size: 20px;
+        font-weight: 800;
+    }
+    .banner{
+        flex-direction: column;
+        /* width: 400px; */
+        /* height: auto; */
+        
+        
+    }
+    .explore{
+        font-size: 2rem;
+    }
+    .banner-description{
+        font-size: 0.6rem;
+        width: 300px;
+        margin-left: 120px;
+
+    }
+    .banner-img{
+   /* flex-direction: column
+   ; */
+   width: 100%;
+    }
+    .button{
+        flex-direction: column;
+        gap: 10px;
+    }
+}
