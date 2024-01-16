@@ -37,11 +37,7 @@
     .banner-description img{
         width: auto;
     }
-    .banner-img{
-   /* flex-direction: column
-   ; */
-   /* width: 100%; */
-    }
+   
     .button{
         flex-direction: column;
         gap: 10px;
@@ -56,6 +52,10 @@
     .popular-section{
         flex-direction: column;
         gap: 20px;
+    }
+    .popular-pic{
+        width: auto;
+        
     }
 .destination-title{
     font-size: 1.8rem;
@@ -76,6 +76,9 @@
 .first{
     width: auto;
 }
+.middle{
+    width: auto;
+}
 .second{
    width: auto;
 }
@@ -87,6 +90,7 @@
 }
 .choose-description{
     padding: 0%;
+    width: auto;
 }
 .choose-card-1{
     flex-direction: column;
@@ -94,21 +98,72 @@
 }
 .choose-1{
     margin-left: 0px;
+    width: auto;
 }
 .choose-2{
-    /* padding-left: 80px; */
+    width: auto;
     margin: 0 auto;
     width: 100%;
     margin-left: 0px;
 }
+.map-description{
+    width: auto;
+}
+.hotel-description{
+    width: auto;
+}
 .best-price{
-    /* margin: 10 auto; */
+    width: auto;
     margin-left: 0px;
 }
+.best-price-description{
+    width: auto;
+}
+.simple{
+    flex-direction: column;
+    }
+    .simple-picture{
+        width: auto;
+        /* margin-left: 0px; */
+    }
+    .simple-img{
+        width: auto;
+        margin-left: 0px;
+        /* padding-right: 30px; */
+        margin-right: 20px;
+    }
+    .simple-description{
+        width: 300px;
+    }
+
+    .news-container{
+        flex-direction: column;
+    }
+    .news-content input{
+        width: 300px;
+    }
+    .news-img{
+        max-width:300px;
+        margin: 0 auto;
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+    .save-img{
+        width: 330px;
+        margin: 0 auto;
+
+    }
+    .save{
+        width: 150px;
+        height: 100px;
+    }
 
 
-
-
+.footer{
+    width: auto;
+    margin: 0 auto;
+    /* height: auto; */
+}
 
 
 
