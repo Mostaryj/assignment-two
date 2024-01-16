@@ -21,8 +21,6 @@
     }
     .banner{
         flex-direction: column;
-        /* width: 400px; */
-        /* height: auto; */
         margin: 0 auto;
         
         
@@ -33,9 +31,11 @@
     .banner-description{
         font-size: 0.6rem;
         width: 300px;
-        /* margin-left: 120px; */
         margin: 0 auto;
 
+    }
+    .banner-description img{
+        width: auto;
     }
     .banner-img{
    /* flex-direction: column
@@ -51,8 +51,66 @@
        margin: 0 auto;
        /* padding-left: 20px; */
     }
+   
+    
     .popular-section{
         flex-direction: column;
         gap: 20px;
     }
+.destination-title{
+    font-size: 1.8rem;
+}
+.destination-description{
+
+}
+.row-1{
+    flex-direction: column;
+    margin: 0 auto;
+}
+.row-1 img{
+    width: 100%;
+}
+.row-2{
+    flex-direction: column;
+}
+.first{
+    width: auto;
+}
+.second{
+   width: auto;
+}
+.row-3{
+    flex-direction: column;
+}
+.last{
+    width: auto;
+}
+.choose-description{
+    padding: 0%;
+}
+.choose-card-1{
+    flex-direction: column;
+    gap: 10px;
+}
+.choose-1{
+    margin-left: 0px;
+}
+.choose-2{
+    /* padding-left: 80px; */
+    margin: 0 auto;
+    width: 100%;
+    margin-left: 0px;
+}
+.best-price{
+    /* margin: 10 auto; */
+    margin-left: 0px;
+}
+
+
+
+
+
+
+
+
 }
