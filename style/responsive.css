@@ -9,6 +9,9 @@
         height: 33.516px;
 
     }
+    .nav-items{
+        visibility: hidden;
+    }
 
     .nav-container p {
         font-size: 20px;
@@ -133,7 +136,10 @@
         margin-right: 20px;
     }
     .simple-description{
-        width: 300px;
+        width: auto;
+    }
+    .bonus-pic{
+        flex-direction: column;
     }
 
     .news-container{
