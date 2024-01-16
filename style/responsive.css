@@ -12,6 +12,9 @@
     .nav-items{
         visibility: hidden;
     }
+    .menu{
+        visibility: visible;
+    }
 
     .nav-container p {
         font-size: 20px;
