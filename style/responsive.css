@@ -109,11 +109,12 @@
 .choose-2{
     width: auto;
     margin: 0 auto;
-    width: 100%;
+
     margin-left: 0px;
 }
 .map-description{
     width: auto;
+    margin: 0 auto ;
 }
 .hotel-description{
     width: auto;

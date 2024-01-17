@@ -181,6 +181,10 @@
   font-weight: 800;
   border: none;
 }
+.popular-pic{
+    width: 500px;
+    height: 387px;
+}
 
 /* popular section ends here */
 
@@ -435,6 +439,7 @@ color: #FFF;
 .bonus{
   max-width: 1250px;
   margin: 0 auto;
+  border-radius: 10px;
   
 }
 .bonus-title{
@@ -465,10 +470,12 @@ color: #FFF;
   max-width: 1250px;
   margin: 0 auto;
   display: flex;
+  margin-top: 30px;
 }
 .news-content{
   width: 50%;
   margin-left: 10px;
+  
 }
 .news-title{
   color: #131318;
@@ -486,12 +493,11 @@ line-height: 26px;
 .news-content input{
   width: 393px;
   height: 52px;
-  flex-shrink: 0;
-  gap: 10px;
-  text-align: start;
+   text-align: start;
   border-radius: 8px;
 background: rgba(19, 19, 24, 0.05);
 border: none;
+margin-top: 20px;
 }
 .news-content .submit{
   border-radius: 8px;
