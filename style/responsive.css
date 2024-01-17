@@ -155,7 +155,7 @@
 
     .simple-picture {
         width: auto;
-        /* margin-left: 0px; */
+       
     }
 
     .simple-img {
@@ -179,11 +179,14 @@
     .bonus-pic {
         flex-direction: column;
     }
-    .bonus-img-1{
+    .bonus-img-1 img{
         width: 358px;
     }
-    .bonus-img-2{
+    .bonus-img-2 img{
         width: 358px;
+    }
+    .bonus-des-1{
+        font-size: 1rem;
     }
 
     .news-container {
