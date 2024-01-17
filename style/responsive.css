@@ -9,12 +9,14 @@
         height: 33.516px;
 
     }
-    .nav-items{
+
+    .nav-items {
         visibility: hidden;
     }
-    .menu{
+
+    .menu {
         visibility: visible;
-        margin-left: 380px;
+
     }
 
     .nav-container p {
@@ -26,155 +28,188 @@
         font-size: 20px;
         font-weight: 800;
     }
-    .banner{
+
+    .banner {
         flex-direction: column;
         margin: 0 auto;
-        
-        
+
+
     }
-    .explore{
+
+    .explore {
         font-size: 1.5rem;
     }
-    .banner-description{
+
+    .banner-description {
         font-size: 0.6rem;
         width: 300px;
         margin: 0 auto;
 
     }
-    .banner-description img{
+
+    .banner-description img {
         width: auto;
     }
-   
-    .button{
+
+    .button {
         flex-direction: column;
         gap: 10px;
         height: auto;
         margin-left: 0px;
         width: 300px;
-       margin: 0 auto;
-       padding-left: 100px;
+        margin: 0 auto;
+        padding-left: 100px;
     }
-   
-    
-    .popular-section{
+
+
+    .popular-section {
         flex-direction: column;
         gap: 20px;
     }
-    .popular-pic{
+
+    .popular-pic {
+        width: 358px;
+
+    }
+
+    .destination-title {
+        font-size: 1.8rem;
+    }
+
+    .row-1 {
+        flex-direction: column;
+        margin: 0 auto;
+    }
+
+    .row-1 img {
+        width: 100%;
+    }
+
+    .row-2 {
+        flex-direction: column;
+    }
+
+    .first {
         width: auto;
-        
     }
-.destination-title{
-    font-size: 1.8rem;
-}
-.destination-description{
 
-}
-.row-1{
-    flex-direction: column;
-    margin: 0 auto;
-}
-.row-1 img{
-    width: 100%;
-}
-.row-2{
-    flex-direction: column;
-}
-.first{
-    width: auto;
-}
-.middle{
-    width: auto;
-}
-.second{
-   width: auto;
-}
-.row-3{
-    flex-direction: column;
-}
-.last{
-    width: auto;
-}
-.choose-description{
-    padding: 0%;
-    width: auto;
-}
-.choose-card-1{
-    flex-direction: column;
-    gap: 10px;
-}
-.choose-1{
-    margin-left: 0px;
-    width: auto;
-}
-.choose-2{
-    width: auto;
-    margin: 0 auto;
-
-    margin-left: 0px;
-}
-.map-description{
-    width: auto;
-    margin: 0 auto ;
-}
-.hotel-description{
-    width: auto;
-}
-.best-price{
-    width: auto;
-    margin-left: 0px;
-}
-.best-price-description{
-    width: auto;
-}
-.simple{
-    flex-direction: column;
+    .middle {
+        width: auto;
     }
-    .simple-picture{
+
+    .second {
+        width: auto;
+    }
+
+    .row-3 {
+        flex-direction: column;
+    }
+
+    .last {
+        width: auto;
+    }
+
+    .choose-description {
+        padding: 0%;
+        width: auto;
+    }
+
+    .choose-card-1 {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .choose-1 {
+        margin-left: 0px;
+        width: auto;
+    }
+
+    .choose-2 {
+        width: auto;
+        margin: 0 auto;
+
+        margin-left: 0px;
+    }
+
+    .map-description {
+        width: auto;
+        margin: 0 auto;
+    }
+
+    .hotel-description {
+        width: auto;
+    }
+
+    .best-price {
+        width: auto;
+        margin-left: 0px;
+    }
+
+    .best-price-description {
+        width: auto;
+    }
+
+    .simple {
+        flex-direction: column;
+    }
+
+    .simple-picture {
         width: auto;
         /* margin-left: 0px; */
     }
-    .simple-img{
-        width: auto;
+
+    .simple-img {
+        width: 358px;
         margin-left: 0px;
         /* padding-right: 30px; */
         margin-right: 20px;
     }
-    .simple-description{
+
+    .watch {
+        width: 200px;
+    }
+
+    .simple-description {
         width: auto;
     }
-    .bonus-pic{
+
+    .bonus-pic {
+        flex-direction: column;
+        width: auto;
+    }
+
+    .news-container {
         flex-direction: column;
     }
 
-    .news-container{
-        flex-direction: column;
-    }
-    .news-content input{
+    .news-content input {
         width: 300px;
     }
-    .news-img{
-        max-width:300px;
+
+    .news-img {
+        max-width: 300px;
         margin: 0 auto;
         margin-top: 20px;
         margin-left: 0px;
     }
-    .save-img{
+
+    .save-img {
         width: 330px;
         margin: 0 auto;
 
     }
-    .save{
+
+    .save {
         width: 150px;
         height: 100px;
     }
 
 
-.footer{
-    width: auto;
-    margin: 0 auto;
-    /* height: auto; */
-}
+    .footer {
+        width: auto;
+        margin: 0 auto;
+        /* height: auto; */
+    }
 
 
 
