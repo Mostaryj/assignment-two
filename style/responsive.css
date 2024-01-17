@@ -14,6 +14,7 @@
     }
     .menu{
         visibility: visible;
+        margin-left: 380px;
     }
 
     .nav-container p {
@@ -51,7 +52,7 @@
         margin-left: 0px;
         width: 300px;
        margin: 0 auto;
-       /* padding-left: 20px; */
+       padding-left: 100px;
     }
    
     
