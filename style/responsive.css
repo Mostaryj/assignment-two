@@ -194,7 +194,7 @@
     }
 
     .news-content input {
-        width: 300px;
+        width: 200px;
     }
 
     .news-img {
@@ -221,8 +221,109 @@
         margin: 0 auto;
         /* height: auto; */
     }
+}
+
+@media screen and (min-width:600px) and (max-width:992px) {
+    /* , */
+    .nav-items{
+        gap: 5px;
+    }
+    .button {
+        gap: 5px;
+        height: auto;
+        margin-left: 0px;
+        width: 250px;
+        margin: 0 auto;
+        padding-right: 80px;
+        padding-bottom: 20px;
+    }
+    .row-2{
+        width: 100%;
+        /* margin: 0 auto; */
+    }
 
 
+    .first {
+        width: 30%;
+    }
 
+    .middle {
+        width: 50%;
+    }
 
+    .second {
+        width: 20%;
+    }
+.row-3{
+    width: 100%;
+}
+.fast{
+    width: 50%;
+}
+.last{
+    width: 50%;
+}
+.choose-card-1{
+    width: 100%;
+    margin: 0 auto;
+}
+.choose-1{
+    width: 50%;
+}
+.choose-2{
+    width: 50%;
+}
+.hotel-description{
+    width: 356px; ;
+}
+.map-description{
+    width: 356px;
+}
+.best-price{
+    width: 50%;
+    margin-left: 200px;
+    /* margin: 0 auto; */
+}
+.simple{
+    width: 100%;
+}
+.simple-content{
+  width: 50%;
+}
+.simple-picture{
+    width: 50%;
+}
+.bonus-pic{
+    width: 100%;
+  
+}
+.bonus-img-1{
+    /* width: 100%; */
+
+}
+.pic-1{
+    width: 100%;
+}
+.pic-2{
+    width: 100%;
+}
+.bonus-img-2{
+    /* width: 50%; */
+}
+.news-container{
+    width: 100%;
+}
+.news-content{
+    width: 50%;
+}
+.news-img{
+    width: 50%;
+    margin-left: 5px;
+}
+.save-img{
+    width: 510px;
+}
+.save{
+    width:220px ;
+}
 }
