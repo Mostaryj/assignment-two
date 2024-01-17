@@ -172,10 +172,18 @@
     .simple-description {
         width: auto;
     }
+    .bonus-title{
+        font-size: 1.5rem;
+    }
 
     .bonus-pic {
         flex-direction: column;
-        width: auto;
+    }
+    .bonus-img-1{
+        width: 358px;
+    }
+    .bonus-img-2{
+        width: 358px;
     }
 
     .news-container {
